@@ -1,0 +1,250 @@
+/* pages and navigation start */
+.title {
+    background-color: black;
+    font-size: 30px;
+    margin: 20px;
+    }
+    .title > a {
+        color: white;
+    }
+    .title2 {
+        margin: 20px;
+        
+    }
+    .div1 {
+        background-image: url(../al1.jpg);
+        color: white;
+        height: 400px;
+        width: 900px;
+    }
+    .div2 {
+      background-image:url(../al2.jpg) ; 
+       color: white;
+       height: 400px;
+       width: 900px;
+    }
+    .div3 {
+        background-image:url(../al3.png) ;
+        height: 400px;
+        width:900px;
+        left: 920px;
+        
+       }
+    .section {
+        padding: 50px;
+        background-image: url(../paper.jpg);
+        border-bottom-width: 20px;
+    }
+    .section > div {
+        margin: 15px;
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+    .section>div>a{
+        font-family: 'Lobster', cursive;
+    }
+    .title3 {
+        margin-left:840px;
+        margin-right: 20px;
+    }
+    /* pages and navigation end*/
+    /*login and registration start*/
+    .register {
+        background-color: silver;
+        width: 700px;
+        height: 700px;
+       margin-left: 1300px;
+       color: rgb(204, 11, 11);
+    }
+    .login {
+        background-image: url(../login.webp);
+        
+        width: 100%;
+    }
+    .login2 {
+        background-color: silver;
+        width: 700px;
+        height: 500px;
+       margin-left: 1000px;
+       margin-top: 300px;
+       color: rgb(204, 11, 11);
+    }
+    .qera {                              
+    font-family: 'Roboto Slab', serif;
+    }
+    .SB {
+        background-image:url(../registration.jpeg) ;
+        height: 800;
+        width: 1000PX;
+    }
+    .SB2 {
+        background-color: silver;
+        height: 900px;;
+        width: 100%;
+      }  
+    .gosa{
+        position: fixed;}
+    
+    /*login and registration end*/
+    /*gallery start*/
+    .gallery{
+    width: 90%;
+    margin:auto;
+    background-color: silver
+    }
+    .gallery > img {
+        width: 500px;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 30px;
+    }
+    .gallery > h1 {
+        font-size: 40px;
+        color: red;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        border: 0.3cm solid yellow;
+        font-family: 'Open Sans Condensed', sans-serif;
+    }
+    
+    .upsection {
+        background-color: salmon;
+        size: 100%;
+    }
+    
+    /*gallery end*/
+    /*about us start*/
+    .aboutus1 {
+        width: 90%;
+        margin:auto;
+        background-color: silver
+    }
+    .aboutus1> img:not(nth-child(1)) {
+        width: 500px;
+        height: 300px;
+        object-fit: cover;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 30px;
+    }
+    .aboutus2 {
+        font-size: 60px;
+        color: red;
+        border: 0.3cm solid yellow;
+        font-family: 'Lobster',cursive;
+    }
+    .aboutus3{
+        font-size: 50px;
+        color: blue;
+        border: 0.3cm solid coral;
+        font-family: 'Comfortaa', cursive;
+    }
+    .aboutus4 {
+        font-size: 50px;
+        color: rgb(129, 95, 9);
+        border: 0.3cm solid firebrick;
+        font-family: 'Abril Fatface', cursive;
+    }
+    .section1 {
+        size: 100%;
+        background-color: salmon;
+    }
+    
+    /*footer start*/
+    .footer {background-image: url(../footer.gif);}
+    .footer >span{
+    margin:10px ;
+       height:   20%;
+       color: white;
+       font-family: 'Anton', sans-serif;
+       font-size: 20px;
+    }
+    .footer>span>h1{
+        color: white;
+        font-family: 'Anton', sans-serif
+        }
+        .footer>h1{
+            margin:10px ;
+       height:   20%;
+       color: white;
+       font-family: 'Anton', sans-serif;
+       font-size: 20px;
+    }
+        
+    /*footer end*/
+    /*puncts start*/
+    .XXX{
+        width: 1900px;
+        height: 700px;
+    }
+    .YYY {
+       background-image:url(../WP2.jpg);
+    }
+    .YYY > img{
+        width: 300px;
+        height: 500px;
+        object-fit: cover;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 30px;
+    }
+     .h1{
+        color: red;
+        height: 50px;
+            margin-right: 50px;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 50px;
+    }
+    .pro{
+        background-image: url(../mzime.jpg);
+    }
+    .h2{
+        padding: 150px;
+        color: rgb(228, 167, 13);
+        font-size: 100px;
+        font-family: 'Anton', sans-serif;
+    }
+    .h3{
+        padding: 150px;
+        color: rgb(130, 211, 8);
+        font-size: 100px;
+        font-family: 'Anton', sans-serif;
+    }
+    .h4{
+        padding: 150px;
+        color: wheat;
+        font-size: 100px;
+        font-family: 'Anton', sans-serif;
+    }
+    .h5{
+        padding: 150px;
+        color: gold;
+        font-size: 100px;
+        font-family: 'Anton', sans-serif;
+    }
+    .h6{
+        padding: 150px;
+        color: blueviolet;
+        font-size: 100px;
+        font-family: 'Anton', sans-serif;
+    }
+    /*puncts end*/
+    /*trailer start*/
+    .TR1{
+        background-color: silver;
+    }
+    .ZZZ>img{
+        width: 1900px;
+        height: 700px;
+    }
+    .ZZZ>h1{
+        font-size: 60px;
+        color: red;
+        border: 0.3cm solid yellow;
+        font-family: 'Anton',sans-serif;
+    }
